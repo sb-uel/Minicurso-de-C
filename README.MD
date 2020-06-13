@@ -15,15 +15,19 @@ Os vídeos contêm toda a **explicação teórica** do tema do módulo, enquanto
 	
  - **Módulo 3 - Operações lógicas e aritméticas**
 	🎬 [Clique aqui para acessar a videoaula - Parte 1](https://youtu.be/v_mLETP2Z_4)
+	
 	🎬 [Clique aqui para acessar a videoaula - Parte 2](https://youtu.be/Edrg9Nms2kw)
+	
 	🔴 [Clique aqui para acessar a live de resolução de exercícios](https://youtu.be/ms8mHmDkjd0) 
 
  - **Módulo 4 - Estruturas condicionais e de repetição**
 	🎬 [Clique aqui para acessar a videoaula](https://youtu.be/EPN8wUNMtJM)
+	
 	🔴 [Clique aqui para acessar a live de resolução de exercícios](https://youtu.be/Y88Wx7ACzjI) 
 
  - **Módulo 5 - Vetor e Matriz**
 	🎬 [Clique aqui para acessar a videoaula](https://youtu.be/Ltb_KlhPEe8)
+	
 	🔴 [Clique aqui para acessar a live de resolução de exercícios](https://youtu.be/s4pZ6c6K8FA)
 
 ### Material do Curso
